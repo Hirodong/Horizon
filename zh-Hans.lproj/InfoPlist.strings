@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  Horizon
+
+  Created by Hiro on 16/6/25.
+  Copyright © 2016年 Hiro. All rights reserved.
+*/
+CFBundleDisplayName = "Horizon";
